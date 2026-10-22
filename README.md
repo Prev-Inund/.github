@@ -121,10 +121,22 @@ python -m app.seed
 
 ---
 
-## 💻 Protótipos Finais e Acesso ao Sistema
+## 💻 Protótipos Finais e Telas do Sistema
 
-* **Aplicação em Produção (Deploy Web):** [previnund.vercel.app](https://previnund.vercel.app)
-* **Documentação Interativa da API (Swagger):** `http://localhost:8000/docs`
+A aplicação está disponível e implantada em produção para acesso imediato da banca e usuários:
+👉 **[previnund.vercel.app](https://previnund.vercel.app)**  
+*(Documentação Interativa da API / Swagger: `http://localhost:8000/docs`)*
+
+### 📸 Telas da Aplicação
+
+| Painel Principal (Dashboard) | Seleção de Estações (Dropdown) |
+|:---:|:---:|
+| ![Painel Principal](dash.png) | ![Seleção de Estações](dropdown.png) |
+
+<br/>
+
+**Central de Alertas e Notificações:**
+![Central de Alertas](alertas.png)
 
 ---
 
