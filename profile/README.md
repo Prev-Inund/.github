@@ -6,8 +6,8 @@ Sistema preditivo e operacional de monitoramento hidrológico e emissão antecip
 
 ## 🏛️ Informações Institucionais
 
-* **IES / Programa:** Residência em TIC 55 — Apoio à Recuperação do Rio Grande do Sul
-* **Entidades Realizadoras / Parceiras:** MCTI (Ministério da Ciência, Tecnologia e Inovação), Softex, Instituto Brisa e Unisinos
+* **IES (Instituição de Ensino Superior):** Unisinos (Universidade do Vale do Rio dos Sinos)
+* **Programa:** Residência em TIC 55 — Apoio à Recuperação do Rio Grande do Sul (MCTI / Softex / Instituto Brisa)
 * **Turma:** TIC 55 - Eldorado do Sul - Turma 2 - Grupo 1
 * **Empresa Parceira / Cliente:** IPEMAI (*Instituto de Pesquisa de Meio Ambiente e Inovação*)
 * **Representante do Cliente:** Dr. Paulo Rogério Foina
