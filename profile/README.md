@@ -196,5 +196,6 @@ npm run dev
 
 ## 📑 Apresentação Final para a Banca
 
-A apresentação oficial do projeto para avaliação da banca avaliadora está disponível para download e consulta:
-* 📄 **[APRESENTAÇÃO_FINAL_GRUPO1_PREVINUND.pdf](APRESENTAÇÃO_FINAL_GRUPO1_PREVINUND.pdf)**
+A apresentação oficial do projeto para avaliação da banca avaliadora está disponível para visualização e download:
+* 📄 **[Visualizar Apresentação Final da Banca (PDF)](https://github.com/Prev-Inund/.github/blob/main/APRESENTA%C3%87%C3%83O_FINAL_GRUPO1_PREVINUND.pdf)**
+* 📥 **[Download Direto do Arquivo PDF](https://raw.githubusercontent.com/Prev-Inund/.github/main/APRESENTA%C3%87%C3%83O_FINAL_GRUPO1_PREVINUND.pdf)**
