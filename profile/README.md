@@ -125,7 +125,6 @@ python -m app.seed
 
 A aplicação está disponível e implantada em produção para acesso imediato da banca e usuários:
 👉 **[previnund.vercel.app](https://previnund.vercel.app)**  
-*(Documentação Interativa da API / Swagger: `http://localhost:8000/docs`)*
 
 ### 📸 Telas da Aplicação
 
